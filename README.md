@@ -1,2 +1,2 @@
-# Body L;anguage Detector
+# Body Language Detector
  NLP/ML Project
